@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m @vladimirzrnic
-- 👀 I’m security and life safety professional and IOT and home automation enthusiast
-- 💞️ I’m looking to collaborate on security projects, DIY projects, home automation project, product and software validation and testing.
+- 🚨 I’m security and life safety professional and IOT and home automation enthusiast
+- 🤝 I’m looking to collaborate on security and life safety, DIY projects involving ESP microcontrollers, home automation project, product and software validation and testing.
 - 📫 You can reach me using GitHub or e-mail vladimir.zrnic@gmail.com
 
 <!---
