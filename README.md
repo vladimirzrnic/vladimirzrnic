@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vladimirzrnic
-- 👀 I’m interested in Security professional, IOT and home automation enthusiast, Home Assistant
-- 💞️ I’m looking to collaborate on security projects, home automation project, validation and testing.
-- 📫 You can reach me on email vladimir.zrnic@gmail.com
+- 👋 Hello there, I’m @vladimirzrnic
+- 👀 I’m security and life safety professional and IOT and home automation enthusiast
+- 💞️ I’m looking to collaborate on security projects, DIY projects, home automation project, product and software validation and testing.
+- 📫 You can reach me using GitHub or e-mail vladimir.zrnic@gmail.com
 
 <!---
 vladimirzrnic/vladimirzrnic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
